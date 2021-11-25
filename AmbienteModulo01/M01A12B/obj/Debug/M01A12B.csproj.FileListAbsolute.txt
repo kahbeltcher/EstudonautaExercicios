@@ -1,0 +1,10 @@
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\bin\Debug\M01A12B.exe.config
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\bin\Debug\M01A12B.exe
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\bin\Debug\M01A12B.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.csproj.AssemblyReference.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.form1.resources
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.Properties.Resources.resources
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.csproj.GenerateResource.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.exe
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A12B\obj\Debug\M01A12B.pdb

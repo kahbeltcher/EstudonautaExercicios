@@ -1,0 +1,7 @@
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\bin\Debug\M01A09.exe.config
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\bin\Debug\M01A09.exe
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\bin\Debug\M01A09.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\obj\Debug\M01A09.csproj.AssemblyReference.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\obj\Debug\M01A09.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\obj\Debug\M01A09.exe
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A09\obj\Debug\M01A09.pdb

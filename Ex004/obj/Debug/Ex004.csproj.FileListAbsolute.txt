@@ -1,0 +1,9 @@
+C:\Users\kahbe\source\repos\Ex004\bin\Debug\Ex004.exe.config
+C:\Users\kahbe\source\repos\Ex004\bin\Debug\Ex004.exe
+C:\Users\kahbe\source\repos\Ex004\bin\Debug\Ex004.pdb
+C:\Users\kahbe\source\repos\Ex004\obj\Debug\Ex004.Form1.resources
+C:\Users\kahbe\source\repos\Ex004\obj\Debug\Ex004.Properties.Resources.resources
+C:\Users\kahbe\source\repos\Ex004\obj\Debug\Ex004.csproj.GenerateResource.cache
+C:\Users\kahbe\source\repos\Ex004\obj\Debug\Ex004.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\Ex004\obj\Debug\Ex004.exe
+C:\Users\kahbe\source\repos\Ex004\obj\Debug\Ex004.pdb

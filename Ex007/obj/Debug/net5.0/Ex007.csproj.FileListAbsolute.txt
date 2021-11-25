@@ -1,0 +1,16 @@
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\Ex007.exe
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\Ex007.deps.json
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\Ex007.runtimeconfig.json
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\Ex007.runtimeconfig.dev.json
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\Ex007.dll
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\ref\Ex007.dll
+C:\Users\kahbe\source\repos\Ex007\bin\Debug\net5.0\Ex007.pdb
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.csproj.AssemblyReference.cache
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.AssemblyInfoInputs.cache
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.AssemblyInfo.cs
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.dll
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\ref\Ex007.dll
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.pdb
+C:\Users\kahbe\source\repos\Ex007\obj\Debug\net5.0\Ex007.genruntimeconfig.cache

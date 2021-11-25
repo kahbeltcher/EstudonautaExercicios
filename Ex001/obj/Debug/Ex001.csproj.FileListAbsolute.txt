@@ -1,0 +1,7 @@
+C:\Users\kahbe\source\repos\Ex001\bin\Debug\Ex001.exe.config
+C:\Users\kahbe\source\repos\Ex001\bin\Debug\Ex001.exe
+C:\Users\kahbe\source\repos\Ex001\bin\Debug\Ex001.pdb
+C:\Users\kahbe\source\repos\Ex001\obj\Debug\Ex001.csproj.AssemblyReference.cache
+C:\Users\kahbe\source\repos\Ex001\obj\Debug\Ex001.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\Ex001\obj\Debug\Ex001.exe
+C:\Users\kahbe\source\repos\Ex001\obj\Debug\Ex001.pdb

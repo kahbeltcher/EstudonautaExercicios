@@ -1,0 +1,10 @@
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\bin\Debug\M01A08F.exe.config
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\bin\Debug\M01A08F.exe
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\bin\Debug\M01A08F.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.csproj.AssemblyReference.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.Form1.resources
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.Properties.Resources.resources
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.csproj.GenerateResource.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.exe
+C:\Users\kahbe\source\repos\AmbienteModulo01\M01A08F\obj\Debug\M01A08F.pdb
