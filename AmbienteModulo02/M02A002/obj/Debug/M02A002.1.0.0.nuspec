@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>M02A002</id>
+    <version>1.0.0</version>
+    <authors>M02A002</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.runtimeconfig.json" target="lib\net5.0\M02A002.runtimeconfig.json" />
+    <file src="C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.dll" target="lib\net5.0\M02A002.dll" />
+  </files>
+</package>

@@ -1,0 +1,16 @@
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.exe
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.deps.json
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.runtimeconfig.json
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.runtimeconfig.dev.json
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\ref\M02A002.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\bin\Debug\net5.0\M02A002.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.csproj.AssemblyReference.cache
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.AssemblyInfoInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.AssemblyInfo.cs
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\ref\M02A002.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A002\obj\Debug\net5.0\M02A002.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\M02A011.exe
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\M02A011.deps.json
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\M02A011.runtimeconfig.json
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\M02A011.runtimeconfig.dev.json
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\M02A011.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\ref\M02A011.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\bin\Debug\net5.0\M02A011.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.AssemblyInfoInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.AssemblyInfo.cs
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.csproj.CoreCompileInputs.cache
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\ref\M02A011.dll
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.pdb
+C:\Users\kahbe\source\repos\AmbienteModulo02\M02A011\obj\Debug\net5.0\M02A011.genruntimeconfig.cache

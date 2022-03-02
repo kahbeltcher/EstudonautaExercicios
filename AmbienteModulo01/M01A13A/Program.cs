@@ -13,7 +13,7 @@ namespace M01A13A
             string nome = "Karen";
             float salário = 2890.23f;
             int idade = 28;
-            Console.WriteLine($"A {nome, 10}  tem {idade,-5:D3} anos e ganha {salário, 10:C} por mês !!!");
+            Console.WriteLine($"A {nome,-5}  tem {idade,-5:D3} anos e ganha {salário, 10:C} por mês !!!");
             int numero = 13;
             Console.WriteLine($"O valor escolhido foi: {numero:X}");
             float valor = 112.003f;
